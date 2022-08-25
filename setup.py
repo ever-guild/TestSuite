@@ -19,10 +19,10 @@ LICENSE = "Apache"
 setup(
     name=NAME,
     version=VERSION,
-    description='TestSuite4 is a framework designed to simplify development and testing of TON Contracts',
+    description='TestSuite is a framework designed to simplify development and testing of TON Contracts',
     long_description=README,
     long_description_content_type='text/markdown',
-    url='https://github.com/tonlabs/TestSuite4',
+    url='https://github.com/EverscaleGuild/TestSuite',
     author=AUTHOR,
     author_email=EMAIL,
     license=LICENSE,

@@ -1,4 +1,4 @@
-## 07-02-2022: TestSuite4 0.5.0 alpha-2
+## 07-02-2022: TestSuite 0.5.0 alpha-2
 
 ### NEW
 
@@ -30,7 +30,7 @@
 - updated documentation
 
 
-## 24-12-2021: TestSuite4 0.5.0 alpha-1
+## 24-12-2021: TestSuite 0.5.0 alpha-1
 
 ### CHANGES / IMPROVEMENTS
 
@@ -51,7 +51,7 @@
 - BaseContract: added `tvc_path` and `abi_path` properties
 - more info about unknown message at trace_level == 1
 
-## 20-12-2021: TestSuite4 0.5.0 alpha-0
+## 20-12-2021: TestSuite 0.5.0 alpha-0
 
 ### NEW
 
@@ -86,7 +86,7 @@
 - shortened printed Cells
 - core: added GlobalConfig, `get_global_config()` and `set_global_config()`
 
-## 09-11-2021: TestSuite4 0.4.1
+## 09-11-2021: TestSuite 0.4.1
 
 ### NEW
 
@@ -107,7 +107,7 @@
 
 - fixed an issue with loading from '.boc'
 
-## 27-07-2021: TestSuite4 0.4.0
+## 27-07-2021: TestSuite 0.4.0
 
 ### BREAKING CHANGES
 
@@ -154,7 +154,7 @@
 
 - major python code refactoring!
 
-## 25-05-2021: TestSuite4 0.3.0
+## 25-05-2021: TestSuite 0.3.0
 
 ### BREAKING CHANGES
 
@@ -184,7 +184,7 @@
 - Added a type check in `Cell`'s constructor
 
 
-## 15-04-2021: TestSuite4 0.2.1
+## 15-04-2021: TestSuite 0.2.1
 
 ### New Features
 
@@ -205,7 +205,7 @@
   - Improved support for bounced messages (no 'WARNING! Unknown message!' anymore)
   - Improved error handling
 
-## 26-03-2021: TestSuite4 0.2.0
+## 26-03-2021: TestSuite 0.2.0
 
 ### General
 
@@ -240,7 +240,7 @@
 - Added experimental `call_getter(...decode=True)` mode.
 
 
-## 25-02-2021: TestSuite4 0.1.2
+## 25-02-2021: TestSuite 0.1.2
 
 ### General
 
@@ -269,7 +269,7 @@
 - improved error reporting
 
 
-## 10-02-2021: TestSuite4 0.1.1
+## 10-02-2021: TestSuite 0.1.1
 
 ### Tutorials
 

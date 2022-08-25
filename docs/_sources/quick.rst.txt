@@ -3,7 +3,7 @@
 Quick start
 ===========
 
-Run a first test for Free TON smart-contracts and debots using TestSuite4.
+Run a first test for Free TON smart-contracts and debots using TestSuite.
 
 .. warning::
     You might need to replace *python* and *pip* with *python3* and *pip3* if you are running Linux or macOS.
@@ -20,14 +20,14 @@ If you have *Python 3.6-3.10*, *pip* and *git* installed on your system, you can
 
 .. code-block:: bash
 
-    $ git clone git@github.com:tonlabs/TestSuite4.git
+    $ git clone git@github.com:EverscaleGuild/TestSuite.git
 
 
 - ... and run the tutorials:
 
 .. code-block:: bash
 
-    $ cd TestSuite4/tutorials
+    $ cd TestSuite/tutorials
 
     $ python tutorial01_getters.py
 
